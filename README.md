@@ -1,7 +1,7 @@
 # Microsoft-Developer-Resources-Analytics in MIDP Workshop
  ![MS_2525_CDS_RegBanner_DevTools_1920x300 (1)](https://user-images.githubusercontent.com/107423518/180083692-13dcdf47-0f75-4aaf-b50e-5d037f611206.jpg)
- This workshop leverages Azure Machine Learning and Github Actions to implement a robust set of workflows to support machine learning models in production.
 
+ 
 ## Featured Content
 Learn with Microsoft through these programs to take your technical skills to the next level!
 | Resource | Description | Type
