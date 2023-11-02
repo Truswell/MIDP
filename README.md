@@ -1,4 +1,4 @@
-# Microsoft-Developer-Resources-Analytics in MIDP Workshop
+# Microsoft Developer Resources – Cloud Scale Analytics Lab Workshop
  ![MS_2525_CDS_RegBanner_DevTools_1920x300 (1)](https://user-images.githubusercontent.com/107423518/180083692-13dcdf47-0f75-4aaf-b50e-5d037f611206.jpg)
 
  
@@ -9,6 +9,7 @@ Learn with Microsoft through these programs to take your technical skills to the
 | [Cloud Skills Challenge-Azure Fundamentals](https://learn.microsoft.com/en-us/users/sandramarin/collections/n6ga8m0jkgrwk) | Learn the essentials of Azure—architectural components and core services and solutions, plus management tools, compliance, security, and data protection.| Self-training |
 | [Analytics in Microsoft Intelligent Data Platform - Lab details](https://content.cloudguides.com/guides/Analytics%20in%20MIDP%20-%20Interactive%20Experience) | Click through demo | Demo site |
 | [Analytics in Microsoft Intelligent Data Platform - Presentation Deck](https://nam06.safelinks.protection.outlook.com/ap/p-59584e83/?url=https%3A%2F%2Fmicrosoft.sharepoint.com%2F%3Ap%3A%2Ft%2FUSCloudScaleAnalyticsPurview%2FEbN64ZEUVPpIuwn-h6davVwBvLwYajGNozVa_2LHcE3RsQ%3Fe%3DX9u0gS&data=05%7C01%7Calexxavier%40microsoft.com%7C8f6bb01c05004186b9ed08db0ed6e9c1%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638120088441800798%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=f4h5jXr9QUZk%2Bm1CmUsYxb26uG7HcrQ5ARWY9XVnsbs%3D&reserved=0) | Workshop presentation deck| PowerPoint |
+|Get Started with Microsoft Fabric(https://learn.microsoft.com/en-us/training/paths/get-started-fabric/)|Self Study|Microsoft Learn|
 
 ---
 
